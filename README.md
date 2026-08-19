@@ -1,73 +1,26 @@
-👋 Olá, eu sou Johnny Tiengo!
+ 👋 Olá, eu sou Johnny Tiengo!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | 2º Semestre
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas | 2º Semestre**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira na área de **Tecnologia da Informação**.
+Sou estudante de **ADS** e estou construindo minha carreira na área de **Tecnologia da Informação**, desenvolvendo conhecimentos em programação e desenvolvimento de sistemas.
 
-Atualmente, estou no **2º semestre da graduação**, desenvolvendo minha base em **lógica de programação, algoritmos, desenvolvimento de sistemas e tecnologias relacionadas à área de TI**.
+ 🚀 Atualmente estudando
 
-Meu objetivo é transformar o conhecimento adquirido durante a graduação em **projetos práticos**, evoluindo constantemente minhas habilidades e construindo meu portfólio como desenvolvedor.
-
-
-🚀 Atualmente estudando
-
-* 🧠 Lógica de Programação
-* 💻 Algoritmos e Programação
+* 🧠 Lógica e Algoritmos
 * 🐍 Python
 * ☕ Programação Orientada a Objetos
 * 🗄️ Banco de Dados
 * 🌐 Desenvolvimento Web
 * 🔧 Git e GitHub
-* 📐 Modelagem de Sistemas
 
- 📚 Formação
+💻 Projetos
 
-**Análise e Desenvolvimento de Sistemas — ADS**
-🎓 Graduação em andamento | 2º semestre
+Estou construindo meu portfólio através de projetos práticos e acadêmicos, buscando aplicar os conhecimentos adquiridos durante minha formação.
 
-Durante minha formação, estou tendo contato com diferentes áreas da tecnologia, incluindo:
+🎯 Objetivo
 
-* Programação
-* Banco de Dados
-* Redes de Computadores
-* Desenvolvimento Web
-* Engenharia de Software
-* Modelagem de Sistemas
-* Computação em Nuvem
-* Inteligência Artificial
+Evoluir constantemente como desenvolvedor, fortalecendo minha base em programação e construindo projetos cada vez mais completos.
 
 
 
- 💻 Projetos
-
-Estou construindo meu portfólio através de projetos práticos desenvolvidos durante meus estudos.
-
- 📌 Em desenvolvimento
-
-* 🐍 Projetos de lógica e programação em Python
-* 📊 Sistemas utilizando estruturas de dados
-* 🗄️ Projetos envolvendo Banco de Dados
-* 🌐 Aplicações para Web
-* 🎓 Projetos acadêmicos
-
-> Novos projetos serão adicionados conforme avanço na minha formação.
-
-
-
- 🎯 Objetivos
-
-* Desenvolver uma base sólida em programação
-* Aprimorar minha lógica de programação
-* Aprender e aplicar boas práticas de desenvolvimento
-* Desenvolver projetos cada vez mais completos
-* Aprender novas tecnologias
-* Construir um portfólio consistente
-* Evoluir profissionalmente na área de Tecnologia da Informação
-
-
-
-📈 Minha evolução
-
-Este perfil acompanha minha jornada de aprendizado em **Análise e Desenvolvimento de Sistemas**, desde os fundamentos de programação até projetos mais completos.
-
-🚀 **Estudando hoje. Construindo projetos. Evoluindo todos os dias.**
+🚀 **Estudando, praticando e evoluindo todos os dias.**
